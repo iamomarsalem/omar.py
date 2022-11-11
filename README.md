@@ -1,4 +1,4 @@
-# omar.py
+# python omar.py
 omar.py
 
 W = '\033[97;1m' 
