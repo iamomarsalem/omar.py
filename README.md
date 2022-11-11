@@ -1,5 +1,4 @@
 #omarsalem1
-omar.py
 
 W = '\033[97;1m' 
 R = '\033[91;1m' 
